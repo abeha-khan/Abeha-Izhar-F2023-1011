@@ -29,7 +29,7 @@ export default function LoginPage() {
           Cue Master
         </h1>
         <p className="text-muted-foreground">
-          Admin access required.
+          Changes Done on Main App 
         </p>
       </div>
       <div className="mt-8 w-full max-w-sm">
